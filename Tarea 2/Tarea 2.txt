@@ -1,0 +1,17 @@
+<html> 
+<head> 
+<title> Tarea #2 </title> 
+</head> 
+<body> 
+<h2 style="margin: 0 auto;">Tarea #2</h2>
+
+<table style="margin: 0 auto;"> 
+<tr> 
+<td>Nombre</td><td>Carnet</td><td>Imagen</td>
+</tr> 
+<tr>
+<td>Cristian Enrique Uz García</td><td>201318609</td><td><img src="usac.jpg"></td> 
+</tr> 
+</table> 
+</body>  
+</html> 
